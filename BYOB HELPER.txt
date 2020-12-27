@@ -1,0 +1,19 @@
+
+
+
+FOR LINUX 
+
+
+
+
+apt-get install docker.io
+
+service docker status
+
+systemctl start docker
+
+apt-get install python3
+
+apt-get install python3-pip
+
+./startup.sh
