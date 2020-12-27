@@ -7,7 +7,7 @@
 
 Questions? [Join the Discord support server](https://discord.gg/8FsSrw7)
 
-__Disclaimer__: This project should be used for authorized testing or educational purposes only.
+__Disclaimer__: This project should be used for authorized testing or educational purposes only & this fork only iclueds a guide on how to use it.
 
 BYOB is an open-source post-exploitation framework for students, researchers and developers. It includes features such as:
 - Pre-built C2 server
